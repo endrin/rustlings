@@ -10,7 +10,7 @@
 // Put your function here!
 // fn ..... {
 
-fn calculateprice(amount: u32) -> u32 {
+fn calculate_price(amount: u32) -> u32 {
     if amount > 40 {
         amount
     } else {
